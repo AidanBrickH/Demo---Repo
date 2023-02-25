@@ -1,2 +1,5 @@
-# Demo---Repo
+# Demo - Repo
+
 Getting organized in GitHub
+
+##SubHeading
